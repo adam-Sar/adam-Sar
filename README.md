@@ -249,15 +249,13 @@
 ## 📊 GitHub Telemetry
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adam-Sar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B0F19&title_color=38BDF8&icon_color=818CF8&text_color=94A3B8&border_radius=10" height="165px" alt="Adam Saraya's GitHub Stats" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adam-Sar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B0F19&title_color=38BDF8&text_color=94A3B8&border_radius=10" height="165px" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=adam-Sar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B0F19&title_color=38BDF8&text_color=94A3B8&border_radius=10" height="165px" alt="Most Used Languages" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adam-Sar&theme=tokyonight&hide_border=true&background=0B0F19&ring=00000000&fire=38BDF8&currStreakNum=38BDF8&sideNums=E2E8F0&sideLabels=94A3B8&border_radius=10" width="70%" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=adam-Sar&theme=tokyonight&hide_border=true&background=0B0F19&ring=6366F1&fire=38BDF8&currStreakNum=38BDF8&sideNums=E2E8F0&sideLabels=94A3B8&border_radius=10" width="70%" alt="GitHub Streak" />
 </div>
 
 <p align="center">
